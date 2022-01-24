@@ -1,0 +1,9 @@
+{
+	"name": "gitHubLearndevADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d05186f7-45b6-42bb-9ebe-ff98dc06a90b",
+		"tenantId": "f905dc50-2cb1-411a-b13c-67aba2757fc5"
+	}
+}
